@@ -3,7 +3,7 @@ title: JsonFeature
 category: clients
 caption: JsonFeature
 feature:
-  artifact: io.ktor:ktor-client-json:$ktor_version
+  artifact: io.ktor:ktor-client-gson:$ktor_version
   class: io.ktor.client.features.json.JsonFeature
 ---
 
